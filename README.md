@@ -34,6 +34,6 @@ cam_type=True means it will run on video accoring to the
 cam_type=False means it will run on image accoring to the
         image_current_index given
         
-* Run the run.py file within the directory
+# Run the run.py file within the directory
 
 
