@@ -1,0 +1,5 @@
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+opencv-python-headless==4.8.0.74
+ultralytics==8.1.9
+easyocr==1.7.1
