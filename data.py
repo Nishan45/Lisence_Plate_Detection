@@ -13,7 +13,7 @@ cam_type=False means it will run on image accoring to the
         image_current_index given
         
 '''
-cam_type=True
+cam_type=False
 image_current_index=0
 video_current_index=0
 
@@ -28,9 +28,7 @@ data={
     "LN15ZZC":["929839","Debjit Choudhury"],  
 }
 
-videos=[
-    "pexels_videos_2103099 (2160p).mp4"
-]
+videos=[]
 
 images=[
     "Number-Plates-Illegal.webp" 
