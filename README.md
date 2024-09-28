@@ -1,6 +1,8 @@
 # Description
 An automatic lisence plate detector using Yolov8 model and opencv
 
+Yolov8 model is trained in google colab. <a href="https://colab.research.google.com/drive/1RyMpfkaMeqqSqRql5u_1WfuTO6vnxM7P?usp=sharing">Link</a>
+
 # Demo
 https://github.com/user-attachments/assets/0af28373-d9c1-41f5-b6c1-8ce822b1df7c
 
