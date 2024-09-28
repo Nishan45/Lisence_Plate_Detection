@@ -2,7 +2,10 @@
 An automatic lisence plate detector using Yolov8 model and opencv
 
 # Demo
-Here is a <a href="https://tinyurl.com/3t5sc9yk">Video</a> of this Project.
+https://github.com/user-attachments/assets/0af28373-d9c1-41f5-b6c1-8ce822b1df7c
+
+https://github.com/user-attachments/assets/533b6689-3f77-49a1-969e-b2a7c4f45cbf
+
 
 # Packages
 * `Opencv` to capture the video
